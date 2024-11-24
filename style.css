@@ -1,6 +1,6 @@
 body {
-    background-color: #8220a8;
-    color: white;
+    background-color: #4a884a;
+    color: black;
     font-family: "Montserrat", sans-serif;
     display: flex;
     justify-content: center;
@@ -10,7 +10,7 @@ body {
 }
 
 button {
-    background-color: #cb91e2;
+    background-color: #b1dd8d;
     color: black;
     font-family: "Montserrat", sans-serif;
 }
